@@ -1,0 +1,19 @@
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: 20px;
+}
+
+.th,
+td {
+    height: 80px;
+    vertical-align: middle;
+}
+
+main{
+    width: 1350px;
+    height: 350px;
+    margin-left: -1280px;
+    margin-top: 190px;
+}
+
